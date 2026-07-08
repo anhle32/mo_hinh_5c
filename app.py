@@ -11,7 +11,7 @@ import streamlit as st
 st.set_page_config(
     layout="wide",
     page_title="Dự báo rủi ro tín dụng 5C",
-    page_icon="🏦",
+    page_icon="😎",
 )
 
 # ---- 2) Import & các hàm cache dùng chung ----
